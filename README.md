@@ -1,2 +1,2 @@
-# Programable-Search-Engine-Google-CSE-tyle-fix
+# Programable Search Engine Google CSE Style fix
 Just copy the main.css file and use it.
